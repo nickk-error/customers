@@ -1,0 +1,1 @@
+2024/01/22 15:42:11 {"@timestamp":"2024-01-22T15:42:11.785+0700","appName":"customer","logType":"AppLog","correlationID":"5c263aa7-2031-4c14-8b51-82c98c754143","level":"INFO","message":"Server start running on dev environment configuration"}

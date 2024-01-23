@@ -1,0 +1,9 @@
+build:
+  date: 2024-01-22
+  number: 1
+
+service:
+  name: Customer
+  port: 8080
+  domain: localhost
+  endpoint: /Customer
